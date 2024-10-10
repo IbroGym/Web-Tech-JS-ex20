@@ -1,0 +1,1 @@
+console.log("I am going to go for chess tournament 'Pavlodar Open 2024' that will be between 11 and 23rd October. I wanted to inform you");
